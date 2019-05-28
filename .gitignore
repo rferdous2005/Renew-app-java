@@ -2,6 +2,5 @@ out/*
 renew_final.*
 .idea
 checker_files
-libs
 module_renew_final.xml
 META-INF/
